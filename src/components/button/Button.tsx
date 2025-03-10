@@ -9,7 +9,6 @@ const Button = ({
   actionButton,
   bgColor,
   margin,
-  ...props
 }: buttonProps) => {
   return (
     <div>
